@@ -75,10 +75,35 @@ I'm a Full Stack Developer with expertise in ReactJS, NodeJS, Next.js, and React
 ## 🚀 Projects
 
 ### Web Applications
-- **E-commerce Website** - Fully functional e-commerce platform using MERN stack
-- **Quiz Website** - Dynamic quiz application with real-time scoring
-- **Educational Website** - Platform featuring course materials and interactive learning tools
-- **Task Management** - Efficient task tracking and management system
+
+- **E-commerce Website**  
+  Fully functional e-commerce platform using MERN stack
+
+- **Quiz Website**  
+  Dynamic quiz application with real-time scoring
+
+- **Educational Website**  
+  Platform featuring course materials and interactive learning tools
+
+- **Task Management**  
+  Efficient task tracking and management system
+
+- **Matrimonial Web Application**  
+  Matchmaking platform with user profiles, filtering, and messaging features
+
+- **School Management Software**  
+  Comprehensive system for managing student records, classes, teachers, and administration  
+  - Includes **Library Management** features for issuing, returning, and tracking books
+
+- **Donation Website**  
+  Platform to facilitate and manage donations, including payment gateway integration and donor tracking
+
+- **Penetration Testing Tool**  
+  Custom-built tool for vulnerability scanning and reporting for websites and web apps
+
+- **Codeko – Educational Platform with ML Models**  
+  Interactive learning platform integrating machine learning models for hands-on experimentation and personalized learning
+
 
 ### Machine Learning Projects
 - **Price Prediction Models** - Forecasting product prices using Python Flask
